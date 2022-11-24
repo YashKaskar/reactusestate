@@ -1,9 +1,9 @@
-import usestate from "./components/usestate" 
+import Home from './components/Home';
 
 function App() {
   return (
     <div>
-      <usestate />
+     <Home />
     </div>
   )
 }
